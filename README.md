@@ -3,6 +3,9 @@
 
 ## Who am I?
 
-Indie Game developer, currently working on yet-to-be-titled game.
+A systems developer interested in graphics programming and game development.
 
-Custom engine, NIH syndrome to the max.
+I like making custom engines, and am currently working on a GPU-centric compute-only
+Vulkan rendering engine.
+
+'Not Invented Here' syndrome to the max.
